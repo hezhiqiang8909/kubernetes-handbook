@@ -1,4 +1,6 @@
-# Summary
+# Table of contents
+
+* [Kubernetes中文指南/云原生应用架构实践手册](README.md)
 
 ## 前言
 
@@ -172,7 +174,7 @@
   * [NFS](practice/nfs.md)
     * [利用NFS动态提供Kubernetes后端存储卷](practice/using-nfs-for-persistent-storage.md)
 * [集群与应用监控](practice/monitoring.md)
-  * [Heapster](practice//heapster.md)
+  * [Heapster](practice/heapster.md)
     * [使用Heapster获取集群和对象的metric数据](practice/using-heapster-to-get-object-metrics.md)
   * [Prometheus](practice/prometheus.md)
     * [使用Prometheus监控kubernetes集群](practice/using-prometheus-to-monitor-kuberentes-cluster.md)
@@ -287,3 +289,4 @@
   * [CNCF 2018年年度报告解读](appendix/cncf-annual-report-2018.md)
 * [Kubernetes认证服务提供商（KCSP）说明](appendix/about-kcsp.md)
 * [认证Kubernetes管理员（CKA）说明](appendix/about-cka-candidate.md)
+
